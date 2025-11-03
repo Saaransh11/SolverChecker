@@ -1,0 +1,8 @@
+google-generativeai==0.8.5
+gradio==5.49.1
+google-cloud-storage==2.18.2
+google-cloud-aiplatform==1.70.0
+google-auth==2.38.0
+PyPDF2==3.0.1
+pillow==11.1.0
+google-cloud-bigquery==3.25.0
